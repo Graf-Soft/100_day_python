@@ -1,3 +1,10 @@
-num_char = len(input('Как вас зовут? '))
-new_num_char = str(num_char)
-print('В вашем имени ' + new_Gnum_char + ' символов.')
+# num_char = len(input('Как вас зовут? '))
+# new_num_char = str(num_char)
+# print('В вашем имени ' + new_Gnum_char + ' символов.')
+
+a = int(99990)
+b = float(9999)
+c = str(9999)
+print(type(a))
+print(type(b))
+print(type(c))
